@@ -2,3 +2,5 @@
 
 pandas
 ipykernel
+numpy
+scipy
