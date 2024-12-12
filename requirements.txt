@@ -4,3 +4,5 @@ pandas
 ipykernel
 numpy
 scipy
+scikit-learn
+seaborn
